@@ -8992,7 +8992,7 @@
                 "uri": "spotify:artist:3zUCHzvbTmCOZoY750yHPB"
               }
             ]
-          },
+          },  
           {
             "id": "2ivEQ9KXkEaJ05HzbPqnkE",
             "name": "Tout réparer - Instrumental",
@@ -9001,7 +9001,7 @@
             "duration_ms": 216653,
             "explicit": false,
             "external_urls": {
-              "spotify": "https://open.spotify.com/track/2ivEQ9KXkEaJ05HzbPqnkE"
+            "spotify": "https://open.spotify.com/track/2ivEQ9KXkEaJ05HzbPqnkE"
             },
             "preview_url": null,
             "type": "track",
